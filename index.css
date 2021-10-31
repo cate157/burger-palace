@@ -45,3 +45,19 @@ third{
 text-align: center;
 height: 400px;
 }
+.four{
+    height: 400px;
+}
+#slide{
+    float: left;
+    padding: 25px;
+}
+#five{
+
+    background-color: #f6b400;
+    height: 400px;
+}
+.apps{
+    padding: 25px;
+
+}
