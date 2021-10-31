@@ -1,4 +1,6 @@
-
+.start{
+    height: 400px;
+}
 .flex{
 
     display: flex;
@@ -16,9 +18,22 @@
     top: -130px;
 }
 .img{
-    width: 350px;
-    height: 350px;
+    width: 250px;
+    height: 250px;
     display: flex;
     float: right;
     bottom: 60px;
+}
+.display{
+display: flex;
+text-align: center;
+height: 400px;
+background-color: #e1ebe6;
+}
+.box{
+    box-shadow: 0 4px 2px 5px #d1e2da;
+    border-radius: 27px;
+    margin: 15px;
+    text-align: center;
+    padding: 35px 0;
 }
