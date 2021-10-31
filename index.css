@@ -59,7 +59,7 @@ height: 400px;
     height: 400px;
 }
 .apps{
-    padding: 25px;
+    padding: 40px;
 
 }
 .six{
@@ -87,4 +87,19 @@ h2.cash{
     border-radius: 50%;
     display: inline-block;
     background-color: #9cb3a8;
+}
+.phone{
+    width: 400px;
+    height: 300px; 
+    float: right; 
+    top: -200px;
+    position: relative;
+}
+.align{
+    display: flex;
+    padding: 0 40px;
+    margin: 15px;
+
+}.seven{
+    height: 50px;
 }
