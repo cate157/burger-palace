@@ -40,3 +40,8 @@ background-color: #e1ebe6;
 third{
     height: 400px;
 }
+.disp{
+    display: flex;
+text-align: center;
+height: 400px;
+}
