@@ -1,0 +1,17 @@
+
+.flex{
+
+    display: flex;
+    position: relative;
+    padding: 0 20px;
+}
+.padd{
+    padding: 0 20px;
+}
+.contact{
+    float: right;
+    display: flex;
+    margin: 25px;
+    display: inline;
+    top: -130px;
+}
