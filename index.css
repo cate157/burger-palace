@@ -15,3 +15,10 @@
     display: inline;
     top: -130px;
 }
+.img{
+    width: 350px;
+    height: 350px;
+    display: flex;
+    float: right;
+    bottom: 60px;
+}
